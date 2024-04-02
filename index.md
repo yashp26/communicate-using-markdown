@@ -11,3 +11,7 @@ Image:
 ``` python
 print("Hello World!")
 ```
+
+- [x] Enroll in class
+- [x] Pass midterm
+- [ ] Pass Final
